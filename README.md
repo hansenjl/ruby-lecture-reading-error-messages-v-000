@@ -1,4 +1,4 @@
-# Intro to Reading Ruby Error Messages
+root# Intro to Reading Ruby Error Messages
 
 ## Overview
 
